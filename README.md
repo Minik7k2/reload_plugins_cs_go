@@ -3,4 +3,5 @@ Plugin służy jako narzędzie do przeładowywania innych pluginów. Ułatwia mi
 
 
 [EN]
+
 The plugin serves as a tool for reloading other plugins. Among other things, it facilitates writing plugins for the server because you do not have to restart the server every time.
